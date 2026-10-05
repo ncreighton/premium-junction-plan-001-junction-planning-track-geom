@@ -1,0 +1,2 @@
+# premium-junction-plan-001-junction-planning-track-geom
+Tired of guessing track radii and junction angles, only to find your model trains derailing or your real-world plans failing? The Junction Planning &amp; Track Geometry Craft Lab turns guesswork into precision—a digital sandbox where you design, test, and refine every curve, switch, and crossing with calculated confidence.  This Notion template combine
